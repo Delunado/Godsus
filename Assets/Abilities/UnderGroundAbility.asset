@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb9e80da66b5d6444ab63740c21a493e, type: 3}
+  m_Name: UnderGroundAbility
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 7f88a6d9bbe499a4c88bd2401dfe4e85, type: 3}
+  direction: {x: 0, y: 0}
+  position: {x: 0, y: 0, z: 0}
+  audioClip: {fileID: 8300000, guid: d8427cbd617759f4a86ec5f7c09b522b, type: 3}

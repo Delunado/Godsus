@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FontXbox
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 51e8630090dd1f24ead49d82aa6fe9ce, type: 3}
+    - {fileID: 2800000, guid: f02be78ba5487f74bb97a3f68945dcc2, type: 3}
+    - {fileID: 2800000, guid: 2a201e25bfa08174bb90d7bc9f135b10, type: 3}
+    - {fileID: 2800000, guid: 486fb0e3b2a1cf6459237926fa48474c, type: 3}
+    totalSpriteSurfaceArea: 150508
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 51e8630090dd1f24ead49d82aa6fe9ce, type: 3}
+  - {fileID: 21300000, guid: 486fb0e3b2a1cf6459237926fa48474c, type: 3}
+  - {fileID: 21300000, guid: 2a201e25bfa08174bb90d7bc9f135b10, type: 3}
+  - {fileID: 21300000, guid: f02be78ba5487f74bb97a3f68945dcc2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - A
+  - Y
+  - X
+  - B
+  m_Tag: FontXbox
+  m_IsVariant: 0
