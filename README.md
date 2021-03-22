@@ -3,7 +3,7 @@
 
 **Godsus** is a Game Jam game, submitted to the [Global Game Jam 2020](https://https://globalgamejam.org/.com/). The game was developed in 48 hours. The theme of the Jam was "**Repair**".
 
-You can try it on your browser or download it for Windows [here](https://delunado.itch.io/godsus)!
+You can [try it](https://delunado.itch.io/godsus) on your browser or download it for Windows [here](https://delunado.itch.io/godsus)!
 
 ### What's "Godsus" about?
 
